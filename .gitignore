@@ -1,0 +1,5 @@
+/processed-data/
+# Ignore all files in the processed-data directory
+
+/raw-data/
+# Ignore all files in the raw-data directory
